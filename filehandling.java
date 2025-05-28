@@ -15,7 +15,7 @@ public class filehandling {
 
         // Simple text-based menu loop
         while (keepRunning) {
-            System.out.println("\n=== FILE OPERATIONS MENU ===");
+            System.out.println("\n=== FILE HANDLING MENU ===");
             System.out.println("1. Write to file");
             System.out.println("2. Read file");
             System.out.println("3. Modify file");
